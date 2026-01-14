@@ -1,0 +1,3 @@
+Датасет: emotion
+Модель: distilbert-base-uncased
+Количество классов: 6
